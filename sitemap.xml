@@ -2,22 +2,30 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://athulan.github.io/ed3152-2013/blog/2013/08/11/intro/</loc>
-        <lastmod>2013-08-11T19:14:11+05:30</lastmod>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
     </url>
     <url>
         <loc>http://athulan.github.io/ed3152-2013/blog/2013/08/11/lecture-1/</loc>
-        <lastmod>2013-08-11T19:11:09+05:30</lastmod>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://athulan.github.io/ed3152-2013/archives/</loc>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
     </url>
     <url>
         <loc>http://athulan.github.io/ed3152-2013/blog/archives/</loc>
-        <lastmod>2013-08-11T19:14:11+05:30</lastmod>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://athulan.github.io/ed3152-2013/blog/</loc>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
     </url>
     <url>
         <loc>http://athulan.github.io/ed3152-2013/</loc>
-        <lastmod>2013-08-11T19:14:11+05:30</lastmod>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
     </url>
     <url>
         <loc>http://athulan.github.io/ed3152-2013/robots.txt</loc>
-        <lastmod>2013-08-11T18:59:10+05:30</lastmod>
+        <lastmod>2013-08-11T19:17:31+05:30</lastmod>
     </url>
 </urlset>
