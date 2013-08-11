@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ED3152 Precision Processes and Systems]]></title>
+  <link href="http://athulan.github.io/ed3152-2013/atom.xml" rel="self"/>
+  <link href="http://athulan.github.io/ed3152-2013/"/>
+  <updated>2013-08-11T19:02:16+05:30</updated>
+  <id>http://athulan.github.io/ed3152-2013/</id>
+  <author>
+    <name><![CDATA[Dr. Athulan Vijayaraghavan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
