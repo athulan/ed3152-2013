@@ -4,7 +4,7 @@
   <title><![CDATA[ED3152 Precision Processes and Systems]]></title>
   <link href="http://athulan.github.io/ed3152-2013/atom.xml" rel="self"/>
   <link href="http://athulan.github.io/ed3152-2013/"/>
-  <updated>2013-08-11T19:17:40+05:30</updated>
+  <updated>2013-08-12T08:35:50+05:30</updated>
   <id>http://athulan.github.io/ed3152-2013/</id>
   <author>
     <name><![CDATA[Dr. Athulan Vijayaraghavan]]></name>
@@ -30,6 +30,9 @@
     <content type="html"><![CDATA[<p>Welcome to the website/blog for ED3152, Precision Processes and Systems and the Department of Engineering Design, IIT Madras.</p>
 
 <p>This website has been generously hosted by <a href="http://www.systeminsights.com">System Insights</a>.</p>
+
+<p>Theme Credits: <a href="https://github.com/macjasp/cleanpress">CleanPress</a>.
+Blog Powered by <a href="http://octopress.org">Octopress</a>.</p>
 ]]></content>
   </entry>
   
