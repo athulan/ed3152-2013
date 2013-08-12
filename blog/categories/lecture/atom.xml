@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ED3152 Precision Processes and Systems]]></title>
-  <link href="http://ed3152.manufacturingbigdata.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: lecture | ED3152 Precision Processes and Systems]]></title>
+  <link href="http://ed3152.manufacturingbigdata.com/blog/categories/lecture/atom.xml" rel="self"/>
   <link href="http://ed3152.manufacturingbigdata.com/"/>
   <updated>2013-08-12T12:24:05+05:30</updated>
   <id>http://ed3152.manufacturingbigdata.com/</id>
@@ -22,20 +22,6 @@
 
 <script async class="speakerdeck-embed" data-id="1c823250e548013017994ebbc7474d80" data-ratio="1.2994923857868" src="http://ed3152.manufacturingbigdata.com//speakerdeck.com/assets/embed.js"></script>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to ED3152]]></title>
-    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/11/intro/"/>
-    <updated>2013-08-11T19:10:00+05:30</updated>
-    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/11/intro</id>
-    <content type="html"><![CDATA[<p>Welcome to the website/blog for ED3152, Precision Processes and Systems and the Department of Engineering Design, IIT Madras.</p>
-
-<p>This website has been generously hosted by <a href="http://www.systeminsights.com">System Insights</a>.</p>
-
-<p>Theme Credits: <a href="https://github.com/macjasp/cleanpress">CleanPress</a>.
-Blog Powered by <a href="http://octopress.org">Octopress</a>.rake installmate</p>
 ]]></content>
   </entry>
   
