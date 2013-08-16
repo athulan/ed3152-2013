@@ -4,7 +4,7 @@
   <title><![CDATA[ED3152 Precision Processes and Systems]]></title>
   <link href="http://ed3152.manufacturingbigdata.com/atom.xml" rel="self"/>
   <link href="http://ed3152.manufacturingbigdata.com/"/>
-  <updated>2013-08-15T12:03:54+05:30</updated>
+  <updated>2013-08-16T19:20:37+05:30</updated>
   <id>http://ed3152.manufacturingbigdata.com/</id>
   <author>
     <name><![CDATA[Dr. Athulan Vijayaraghavan]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lecture 2]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/16/lecture-2/"/>
+    <updated>2013-08-16T19:14:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/16/lecture-2</id>
+    <content type="html"><![CDATA[<p>Lecture 2 slides:</p>
+
+<script async class="speakerdeck-embed" data-id="61e0bc90e8a70130abb9124255f208d5" data-ratio="1.2994923857868" src="http://ed3152.manufacturingbigdata.com//speakerdeck.com/assets/embed.js"></script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Homework 1]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/16/hw-1/"/>
+    <updated>2013-08-16T19:12:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/16/hw-1</id>
+    <content type="html"><![CDATA[<p>Homework 1 is available <a href="http://db.tt/AwB1V2lD">here</a>.</p>
+
+<p>HW 1 is due in class on <strong>August 23rd</strong>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lecture 1]]></title>
