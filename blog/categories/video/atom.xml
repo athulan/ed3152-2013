@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: video | ED3152 Precision Processes and Systems]]></title>
+  <link href="http://ed3152.manufacturingbigdata.com/blog/categories/video/atom.xml" rel="self"/>
+  <link href="http://ed3152.manufacturingbigdata.com/"/>
+  <updated>2013-08-25T11:51:40+05:30</updated>
+  <id>http://ed3152.manufacturingbigdata.com/</id>
+  <author>
+    <name><![CDATA[Dr. Athulan Vijayaraghavan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Interferometry Examples]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/25/interferometry-examples/"/>
+    <updated>2013-08-25T11:49:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/25/interferometry-examples</id>
+    <content type="html"><![CDATA[<p>Here is the video I showed in class on August 23rd about Michelson Interferometry:</p>
+
+<iframe width="420" height="315" src="http://ed3152.manufacturingbigdata.com//www.youtube.com/embed/zaxYZxQS0yc" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

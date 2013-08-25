@@ -4,7 +4,7 @@
   <title><![CDATA[ED3152 Precision Processes and Systems]]></title>
   <link href="http://ed3152.manufacturingbigdata.com/atom.xml" rel="self"/>
   <link href="http://ed3152.manufacturingbigdata.com/"/>
-  <updated>2013-08-16T19:20:37+05:30</updated>
+  <updated>2013-08-25T11:51:40+05:30</updated>
   <id>http://ed3152.manufacturingbigdata.com/</id>
   <author>
     <name><![CDATA[Dr. Athulan Vijayaraghavan]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interferometry Examples]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/25/interferometry-examples/"/>
+    <updated>2013-08-25T11:49:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/25/interferometry-examples</id>
+    <content type="html"><![CDATA[<p>Here is the video I showed in class on August 23rd about Michelson Interferometry:</p>
+
+<iframe width="420" height="315" src="http://ed3152.manufacturingbigdata.com//www.youtube.com/embed/zaxYZxQS0yc" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Homework 2]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/25/hw-2/"/>
+    <updated>2013-08-25T11:38:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/25/hw-2</id>
+    <content type="html"><![CDATA[<p>Homework 2 is available <a href="http://db.tt/j300dVQo">here</a>.</p>
+
+<p>HW 2 is due in class on <strong>August 30th</strong>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lecture 3]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/23/lecture-3/"/>
+    <updated>2013-08-23T19:14:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/23/lecture-3</id>
+    <content type="html"><![CDATA[<p>Lecture 3 slides:</p>
+
+<script async class="speakerdeck-embed" data-id="5b0194c0ef7b0130c39576dd49587c4d" data-ratio="1.2994923857868" src="http://ed3152.manufacturingbigdata.com//speakerdeck.com/assets/embed.js"></script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lecture 2]]></title>
