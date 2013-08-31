@@ -4,7 +4,7 @@
   <title><![CDATA[ED3152 Precision Processes and Systems]]></title>
   <link href="http://ed3152.manufacturingbigdata.com/atom.xml" rel="self"/>
   <link href="http://ed3152.manufacturingbigdata.com/"/>
-  <updated>2013-08-25T11:51:40+05:30</updated>
+  <updated>2013-08-31T17:06:28+05:30</updated>
   <id>http://ed3152.manufacturingbigdata.com/</id>
   <author>
     <name><![CDATA[Dr. Athulan Vijayaraghavan]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lecture 4]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/31/lecture-4/"/>
+    <updated>2013-08-31T17:03:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/31/lecture-4</id>
+    <content type="html"><![CDATA[<p>Lecture 4 slides:</p>
+
+<script async class="speakerdeck-embed" data-id="a6f054c0f45e01308c6e76aad26f366c" data-ratio="1.2994923857868" src="http://ed3152.manufacturingbigdata.com//speakerdeck.com/assets/embed.js"></script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HW 3]]></title>
+    <link href="http://ed3152.manufacturingbigdata.com/blog/2013/08/31/hw-3/"/>
+    <updated>2013-08-31T17:03:00+05:30</updated>
+    <id>http://ed3152.manufacturingbigdata.com/blog/2013/08/31/hw-3</id>
+    <content type="html"><![CDATA[<p>Homework 3 is available <a href="http://db.tt/Mb7Mrrm8">here</a>.</p>
+
+<p>Data required for Problem 2 is available <a href="http://db.tt/iAQabnZ8">here</a>.</p>
+
+<p>HW 3 is due in class on <strong>September 13</strong>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interferometry Examples]]></title>
